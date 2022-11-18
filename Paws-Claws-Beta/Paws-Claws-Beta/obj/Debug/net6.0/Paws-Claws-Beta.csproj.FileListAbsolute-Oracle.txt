@@ -1,0 +1,15 @@
+C:\Users\Ernes\OneDrive - Florida International University\Computer Programming\GitHub\Paws-Claws-Beta\Paws-Claws-Beta\Paws-Claws-Beta\obj\Debug\net6.0\Paws-Claws-Beta.csproj.AssemblyReference.cache
+C:\Users\Ernes\OneDrive - Florida International University\Computer Programming\GitHub\Paws-Claws-Beta\Paws-Claws-Beta\Paws-Claws-Beta\obj\Debug\net6.0\Paws-Claws-Beta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ernes\OneDrive - Florida International University\Computer Programming\GitHub\Paws-Claws-Beta\Paws-Claws-Beta\Paws-Claws-Beta\obj\Debug\net6.0\Paws-Claws-Beta.AssemblyInfoInputs.cache
+C:\Users\Ernes\OneDrive - Florida International University\Computer Programming\GitHub\Paws-Claws-Beta\Paws-Claws-Beta\Paws-Claws-Beta\obj\Debug\net6.0\Paws-Claws-Beta.AssemblyInfo.cs
+C:\Users\Ernes\OneDrive - Florida International University\Computer Programming\GitHub\Paws-Claws-Beta\Paws-Claws-Beta\Paws-Claws-Beta\obj\Debug\net6.0\Paws-Claws-Beta.csproj.CoreCompileInputs.cache
+C:\Users\Ernes\OneDrive - Florida International University\Computer Programming\GitHub\Paws-Claws-Beta\Paws-Claws-Beta\Paws-Claws-Beta\bin\Debug\net6.0\Paws-Claws-Beta.exe
+C:\Users\Ernes\OneDrive - Florida International University\Computer Programming\GitHub\Paws-Claws-Beta\Paws-Claws-Beta\Paws-Claws-Beta\bin\Debug\net6.0\Paws-Claws-Beta.deps.json
+C:\Users\Ernes\OneDrive - Florida International University\Computer Programming\GitHub\Paws-Claws-Beta\Paws-Claws-Beta\Paws-Claws-Beta\bin\Debug\net6.0\Paws-Claws-Beta.runtimeconfig.json
+C:\Users\Ernes\OneDrive - Florida International University\Computer Programming\GitHub\Paws-Claws-Beta\Paws-Claws-Beta\Paws-Claws-Beta\bin\Debug\net6.0\Paws-Claws-Beta.dll
+C:\Users\Ernes\OneDrive - Florida International University\Computer Programming\GitHub\Paws-Claws-Beta\Paws-Claws-Beta\Paws-Claws-Beta\bin\Debug\net6.0\Paws-Claws-Beta.pdb
+C:\Users\Ernes\OneDrive - Florida International University\Computer Programming\GitHub\Paws-Claws-Beta\Paws-Claws-Beta\Paws-Claws-Beta\obj\Debug\net6.0\Paws-Claws-Beta.dll
+C:\Users\Ernes\OneDrive - Florida International University\Computer Programming\GitHub\Paws-Claws-Beta\Paws-Claws-Beta\Paws-Claws-Beta\obj\Debug\net6.0\refint\Paws-Claws-Beta.dll
+C:\Users\Ernes\OneDrive - Florida International University\Computer Programming\GitHub\Paws-Claws-Beta\Paws-Claws-Beta\Paws-Claws-Beta\obj\Debug\net6.0\Paws-Claws-Beta.pdb
+C:\Users\Ernes\OneDrive - Florida International University\Computer Programming\GitHub\Paws-Claws-Beta\Paws-Claws-Beta\Paws-Claws-Beta\obj\Debug\net6.0\Paws-Claws-Beta.genruntimeconfig.cache
+C:\Users\Ernes\OneDrive - Florida International University\Computer Programming\GitHub\Paws-Claws-Beta\Paws-Claws-Beta\Paws-Claws-Beta\obj\Debug\net6.0\ref\Paws-Claws-Beta.dll
